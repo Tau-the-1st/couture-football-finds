@@ -12,7 +12,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="space-y-4">
             <h3 className="font-playfair text-2xl font-bold text-gradient">
-              Rashid Cassim Sports
+              Code works sports wear
             </h3>
             <p className="text-gray-400 leading-relaxed">
               Your premier destination for luxury football apparel and premium sportswear. 
@@ -76,7 +76,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3 text-gray-400">
                 <Mail className="h-4 w-4 text-luxury-gold" />
-                <span className="text-sm">info@rashidcassimsports.co.za</span>
+                <span className="text-sm">info@codeworkssportswear.co.za</span>
               </div>
             </div>
 
@@ -100,7 +100,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-luxury-gold/20 pt-8 flex flex-col md:flex-row items-center justify-between">
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © 2024 Rashid Cassim Sports. All rights reserved.
+            © 2024 Code works sports wear. All rights reserved.
           </p>
           <div className="flex space-x-6 text-sm">
             <a href="#" className="text-gray-400 hover:text-luxury-gold transition-colors duration-300">

@@ -22,7 +22,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="font-playfair text-2xl lg:text-3xl font-bold text-gradient">
-              Rashid Cassim Sports
+              Code works sports wear
             </h1>
           </div>
 
