@@ -1,4 +1,3 @@
-
 import React from 'react';
 import ProductCard from './ProductCard';
 import { Button } from '@/components/ui/button';
@@ -11,7 +10,7 @@ const ProductGrid = () => {
       brand: 'Adidas',
       price: 1599.99,
       originalPrice: 1899.99,
-      image: 'https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=400&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=400&fit=crop&crop=center',
       isNew: true,
       isBestseller: true,
     },
@@ -20,7 +19,7 @@ const ProductGrid = () => {
       name: 'Liverpool FC Away Jersey 2024',
       brand: 'Nike',
       price: 1699.99,
-      image: 'https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=400&h=400&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop&crop=center',
       isBestseller: true,
     },
     {
@@ -28,7 +27,7 @@ const ProductGrid = () => {
       name: 'Real Madrid Home Jersey 2024',
       brand: 'Adidas',
       price: 1799.99,
-      image: 'https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=400&h=400&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop&crop=center',
       isNew: true,
     },
     {
@@ -37,21 +36,21 @@ const ProductGrid = () => {
       brand: 'Nike',
       price: 1599.99,
       originalPrice: 1799.99,
-      image: 'https://images.unsplash.com/photo-1579952363873-27d3bfad9c0d?w=400&h=400&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1594736797933-d0301ba2fe65?w=400&h=400&fit=crop&crop=center',
     },
     {
       id: '5',
       name: 'Chelsea FC Third Jersey 2024',
       brand: 'Nike',
       price: 1499.99,
-      image: 'https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=400&h=400&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop&crop=center',
     },
     {
       id: '6',
       name: 'Barcelona Home Jersey 2024',
       brand: 'Nike',
       price: 1699.99,
-      image: 'https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=400&h=400&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=400&h=400&fit=crop&crop=center',
       isNew: true,
     },
   ];
